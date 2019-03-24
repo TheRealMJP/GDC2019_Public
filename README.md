@@ -8,3 +8,10 @@ Here's the full description from the GDC schedule page:
 *The recent wave of "explicit" graphics APIs such as Vulkan and D3D12 require that programmers make use of barriers, events, fences, and other GPU-side synchronization primitives in order to obtain correct results. For programmers new to GPU programming or who are used to other APIs that don't require barriers, it's not at all obvious why barriers are needed or what they're actually doing under the hood. This presentation aims to remove much of the mystery around barriers by explaining how they work on modern PC and console GPU architectures.*
 
 *Attendees will gain a better understanding of why barriers are necessary, and also what implications they have on GPU utilization and performance. This talk will also explain how barriers and synchronization tie into more complex topics such as submitting commands to multiple hardware queues (AKA Async Compute).*
+
+# Direct Download Links
+[PowerPoint Slides](https://github.com/TheRealMJP/GDC2019_Public/raw/master/GDC%202019%20-%20Breaking%20Down%20Barriers%20(Public).pptx)
+
+[PDF Export](https://github.com/TheRealMJP/GDC2019_Public/raw/master/GDC%202019%20-%20Breaking%20Down%20Barriers%20(Public).pdf)
+
+[PDF Export (With Speaker Notes)](https://github.com/TheRealMJP/GDC2019_Public/raw/master/GDC%202019%20-%20Breaking%20Down%20Barriers%20(Public)%20(With%20Notes).pdf)
