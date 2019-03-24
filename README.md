@@ -1,4 +1,4 @@
-# GDC2019_Public
+# Breaking Down Barriers - GDC 2019
 This is the public repository for my GDC 2019 presentation, entitled "Breaking Down Barriers - An Introduction To GPU Synchronization". The talk was given as part of the Advanced Graphics Techniques tutorial session.
 
 The basic purpose of this talk is to fill in some of the gaps that you might have around how barriers actually work on typically GPUs, and also explain why they're needed in the first place. In that regard it's intended to more accessible to people that don't have a lot of low-level GPU programming experience, or are new to the "explicit" APIs such as D3D12 and Vulkan. The slides here include full speaker notes that are intended to roughly match what I said at the actual talk, so that you can hopefully get the full experience even if you didn't attend.
